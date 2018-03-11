@@ -1,0 +1,7 @@
+/.idea
+/docs/origin
+/vendor
+/build
+/*.prof
+/*.prof.*
+/*.test
